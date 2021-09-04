@@ -485,7 +485,7 @@ footer .footer-container .footer-text p {
     --header-height: 60px;
     --header-bot-height: 60px;
     --footer-height: 170px;
-    --padding-container: 0;
+    --padding-container: 0px;
     --padding-header: 30px;
     --font-text: 12px;
     --font-logo: 1.2rem;
